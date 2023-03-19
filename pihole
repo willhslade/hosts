@@ -1,9 +1,9 @@
 # 0.0.0.0 zerohedge./com
-0.0.0.0 metafilter.com
-0.0.0.0 marginalrevolution.com
-0.0.0.0 *.twitter.com
-0.0.0.0 twitter.com
-0.0.0.0 slashdot.org
+# 0.0.0.0 metafilter.com
+# 0.0.0.0 marginalrevolution.com
+# 0.0.0.0 *.twitter.com
+# 0.0.0.0 twitter.com
+# 0.0.0.0 slashdot.org
 
 # 0.0.0.0 www.indeed.com
 # 0.0.0.0 ca.indeed.com
@@ -12,8 +12,8 @@
 # 0.0.0.0 *.indeed.com
 # 0.0.0.0 *.indeed.ca
 
-0.0.0.0 seeking.com
-0.0.0.0 loveme.com
+# 0.0.0.0 seeking.com
+# 0.0.0.0 loveme.com
 
 # 0.0.0.0 reddit.com
 # 0.0.0.0 news.ycombinator.com
